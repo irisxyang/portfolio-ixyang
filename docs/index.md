@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Iris Yang 6.1040 Portfolio"
+  text: "where is adam janicki"
+  tagline: "my cute lil tagline"
   actions:
     - theme: brand
       text: Template Repository
