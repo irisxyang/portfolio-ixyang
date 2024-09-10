@@ -3,6 +3,9 @@ title: Blog 1
 layout: doc
 ---
 
-# Blog 1
+# Lecture 2 - Problems that Matter: Value Sensitive Design
 
-Write some cool stuff here!
+Dead Internet Theory and the impact of widespread use of AI.
+thinking about how
+
+AI training on its own content

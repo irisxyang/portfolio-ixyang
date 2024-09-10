@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Iris Yang 6.1040 Portfolio"
-  text: "where is adam janicki"
+  text: "who is adam janicki"
   tagline: "my cute lil tagline"
   actions:
     - theme: brand
@@ -16,10 +16,12 @@ hero:
 
 features:
   - title: Blogs
-    details: Some cool blogs you'll write this semester!
+    details: Reflections, thoughts, and musings.
     link: /blogs
   - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+    details: My compiled 6.1040 assignments so far.
+    link: /assignments
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    details: Learn more about me!
+    link: /about
 ---
