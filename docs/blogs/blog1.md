@@ -1,11 +1,16 @@
 ---
-title: Blog 1
+title: Lecture 2 - Unintentional Consequences of Widespread Use of AI
 layout: doc
 ---
 
-# Lecture 2 - Problems that Matter: Value Sensitive Design
+# The Unintentional Consequences of the Widespread Use of AI
 
-Dead Internet Theory and the impact of widespread use of AI.
-thinking about how
+In Lecture 2, we discussed the possibility of unintended effects of software. In particular, I thought it was interesting how design and widespread use could fundamentally change the way society operates on an everyday basis. The example that was given during lecture was Smart Compose, which made it easier to send emails, but unintentionally changed social expectations for responsiveness. Similarly, we talked about Slack and how the instant-messaging format also increases the pressure to be responsive.
 
-AI training on its own content
+Another unintentional consequence of widespread use that was not discussed in class was that it is highly possible that mechanisms such as Smart Compose could eventually change the way we interact online. As more and more people begin to rely on text autocomplete, it is possible that the style of text that comes from predictive software could become the norm. [This](https://www.bbc.com/future/article/20190812-how-ai-powered-predictive-text-affects-your-brain) BBC article explores how text autocomplete might affect our expressiveness in text by decreasing individuality in favor of auto-generated phrases.
+
+As I continued to think about the unintended consequences of a software like text generation, I began to consider the impacts of text generation by AI. Text generation via AI models has become increasingly frequent in the past year, especially as models such as GPT-4 become more and more competent. AI is extremely helpful for speeding up the tedious process of writing, so naturally there has been an spike in content released such as articles, papers, and more that have used these models. This means that more and more content online is featuring common words used by AI models such as "tapestry" or "delve" (See more on this [here](https://aiphrasefinder.com/common-ai-words/)). Similar to my previous speculation about Smart Compose, AI models appear to be fundamentally changing the way that we speak online by popularizing words that would not otherwise be used--but due to the nature of generative AI and its easy use, this is being done at a _much_ larger scale.
+
+On the other hand, we can also consider the more technical unintended consequences of AI generated content. Since models are trained on the Internet, as the Internet becomes more and more populated with AI generated content, AI models begin to train on their own content. AI detection software is still extremely unreliable, so it is effectively impossible to guarantee that these models will not encounter their own content. [This](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/) article details how AI becomes less reliable as it trains on its own content, to the point of gibberish after a few iterations.
+
+I thought it was extremely interesting how the widespread use of software could fundamentally change how we interact with each other by unintentionally establishing new social norms or changing language by popularizing certain words or phrases. Is this something that we would want to try and prevent? Or is this just something that we should consider a natural progression based in technological advancements?
