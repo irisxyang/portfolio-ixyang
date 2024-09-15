@@ -26,21 +26,21 @@ Below are a few of the main apps that I felt like had comparable functionality t
 ### Comparable Features
 
 1. **Beli Lists:** How do we create similar functionality that users can refer back to, but perhaps is more intuitive to access?
-   <img src="./assignment2/beli_list.PNG" width="300" />
+   <img src="./assignment2/beli_list.png" width="300" />
    There are a lot of different features on the Beli list page that appear overwhelming rather than useful. Plus, there is a lot of repetitive information, as seen in the screenshot below. How can we minimize clutter without losing functionality?
-   <img src="./assignment2/beli_list2.PNG" width="300" />
+   <img src="./assignment2/beli_list2.png" width="300" />
    How can we emphasize the more useful features, such as being able to filter restaurants by city?
-   <img src="./assignment2/beli_list_loc.PNG" width="300" />
+   <img src="./assignment2/beli_list_loc.png" width="300" />
 2. **Yelp Previously Reviewed:** Similar to Beli Lists, but worse. Not very easy to find the restaurants you've previously reviewed, so discourages the user from using the app as a personal reference. In Omnom, we would want to ensure that previously reviewed restaurants are easily and clearly accessible to encourage people to use it.
    <img src="./assignment2/yelp_demo.gif" width="300"/>
 3. **Beli User Page vs Strava User Page:** How can we find a good balance between adding different features to a user's page without it looking cluttered?
-   <img src="./assignment2/beli_user.PNG" width="300"/>
+   <img src="./assignment2/beli_user.png" width="300"/>
    Beli has a lot of information on their user page, and is not the most intuitive design. In contrast, the Strava user page is simple, but is not as engaging since the information is extremely limited.
-   <img src="./assignment2/strava_user.PNG" width="300"/>
+   <img src="./assignment2/strava_user.png" width="300"/>
 4. **Strava Main Feed:** How can we ensure that the home feed has clear headlines and visuals so that users can easily grasp the content of each post? Looking at each post on Strava, the user is easily able to tell the type of workout, the route, and any other descriptions. How can we apply these to the characteristics users look for in restaurants?
-   <img src="./assignment2/strava_feed.PNG" width="300"/>
+   <img src="./assignment2/strava_feed.png" width="300"/>
 5. **Beli Restaurant Page vs Yelp Restaurant Page:** How can we concisely convey the pertinent information on a single restaurant page? I like that Beli's restaurant page has the location information in the background. However, I wish it was more clear on the actual distance between the restaurant and my current location.
-   <img src="./assignment2/beli_restaurant.PNG" width="300"/>  
+   <img src="./assignment2/beli_restaurant.png" width="300"/>  
    In contrast, we don't see location information as easily on the Yelp page. However, we can more clearly see the rating, as well as any pictures.
    <img src="./assignment2/yelp_restaurant.jpeg" width="300"/>
    Both restaurant pages appear to be kind of cluttered. How can we extract the essential elements while still keeping the page maximally informative?
