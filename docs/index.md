@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Iris Yang 6.1040 Portfolio"
-  text: "who is adam janicki"
-  tagline: "my cute lil tagline"
+  text: "Welcome to My Crib"
+  tagline: "6.1040 Fall 2024"
   actions:
     - theme: brand
       text: Template Repository
