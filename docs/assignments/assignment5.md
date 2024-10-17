@@ -5,6 +5,12 @@ layout: doc
 
 # Frontend Design and Implementation for Omnom
 
+## Links
+
+You can find the code repository [HERE](https://github.com/irisxyang/frontend-starter).
+
+You can find the deployed service [HERE](https://frontend-starter-zeta.vercel.app/).
+
 ## Heuristic Evaluation
 
 ### Usability Criteria
