@@ -1,5 +1,5 @@
 ---
-title: Lecture 13 - Design Evaluation in Crubl
+title: Lecture 13 - Design Evaluation in Crumbl
 layout: doc
 ---
 
