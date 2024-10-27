@@ -30,3 +30,15 @@ You can find the deployed service [HERE](https://frontend-starter-zeta.vercel.ap
 - **Speak The User's Language:** I think that my concepts in my wireframe do a good job of speaking in clear, user-friendly terms. I am unsure if this would fully qualify as a "metaphor", but I think the naming of the different characteristic weightings (food, service, etc.) as "Preferences" is a good example of this. I think this name does a good job of conveying the intention behind the concept, which is to encapsulate the user's opinion--hence, "preferences." There are no other components or concepts that I believe are extremely confusing, but one thing that I could implement in my final site to help with this principle is to create understandable and informative error messages for actions that the user is not allowed to perform.
 
 - **Consistency:** My wireframes are relatively consistent across the different pages. Each Review component has the same layout, whether it is on the home page, restaurant page, or the user's profile page. This is great because it allows for the user to quickly navigate the information in any Review regardless of what page its on, since it is always in the same format. One thing that I could consider adding is consistent symbols across different pages (also tying into accessibility), which would further strengthen the principle of consistency across my site.
+
+## Visual Design Study
+
+In my app, I wanted to create a friendly interface for users that is also quite pleasant. I was inspired by the curves of retro-style designs and wanted a font and color scheme that would properly reflect my vision. In the end, I settled on a font from Google Fonts called Karla--a round, slightly shorter sans-serif that I felt conveyed a very approachable vibe. I chose the background of my site to be a cream color, and the main accent color to be orange. Although in my visual design study, the color study was much more vibrant and variegated, I decided not to add too much color into the site as to keep it pleasant--only cream, orange, and a yellow for hovering over buttons. I wanted the edges of components to be rounded, so that there were not any harsh angles within the design. I don't want people to be overwhelmed by my app, especially because there is already a lot going on with the weightings and scoring systems.
+
+### Color Study:
+
+<img src="./assignment5/colorstudy.jpg"/>
+
+### Font Study:
+
+<img src="./assignment5/fontstudy.jpg"/>
